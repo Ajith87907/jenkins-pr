@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('code quality') {
       steps {
-        echo "code smells great"
+        echo "code smells great,ok done"
       }
     }
   }
