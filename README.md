@@ -1,3 +1,2 @@
 # jenkins-pr yes
-no
-AA
+no this is a readme
