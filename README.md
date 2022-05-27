@@ -1,1 +1,1 @@
-# jenkins-pr
+# jenkins-pr yes
