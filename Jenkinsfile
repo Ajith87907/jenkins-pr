@@ -4,7 +4,7 @@ pipeline {
     stage('code quality') {
       steps {
         echo "code smells great,ok done"
-        echo "developers sucks ,IKR hm"
+        echo "developers sucks ,IKR ahem"
       }
     }
   }
